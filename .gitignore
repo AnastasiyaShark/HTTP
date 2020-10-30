@@ -1,0 +1,8 @@
+/.gradle/
+/.idea/
+/build/
+*.jpg
+
+**/.gradle/
+**/.idea/
+**/build/
